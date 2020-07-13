@@ -44,6 +44,8 @@ pip install -r requirements.txt
 
 ## To Do
 1.Convert the app to run without any internet connection, i.e. **PWA**.
+
+
 2.Add a better vizualization chart to display the predictions.
 
 ## Bug / Feature Request
