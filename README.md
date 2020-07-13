@@ -56,10 +56,10 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Technology Used 
 made with [Python](https://www.python.org/)
 
-- [Keras] (https://keras.io/)
-- [Flask] (https://flask.palletsprojects.com/)
-- [Gunicorn] (https://gunicorn.org/)
-- [Tensorflow] (https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [Flask](https://flask.palletsprojects.com/)
+- [Gunicorn](https://gunicorn.org/)
+- [Tensorflow](https://www.tensorflow.org/)
 
 ## credits
 
